@@ -12,6 +12,9 @@ This project was created to help small businesses and individuals who are being 
 I built this system to demonstrate that with a Linux PC, some open-source tools, and a bit of setup, anyone can have their own AI-powered call assistant without subscription fees or privacy concerns.
 
 ---
+## Why am i doing this cause i know how it works with small business and they try all the ways to expand it and they loose it 
+## What do i want in return : 
+##Nothing i guess cause i don't have a bank account may be get me a job if you can.
 **CHECK OUT THE YOUTUBE VIDEO**: [link](https://youtu.be/DtHNSL8JV_U)
 ## 🌟 How It Works
 
