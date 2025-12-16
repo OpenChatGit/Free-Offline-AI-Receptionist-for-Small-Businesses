@@ -12,7 +12,7 @@ This project was created to help small businesses and individuals who are being 
 I built this system to demonstrate that with a Linux PC, some open-source tools, and a bit of setup, anyone can have their own AI-powered call assistant without subscription fees or privacy concerns.
 
 ---
-## CHECK OUT THE YOUTUBE VIDEO: [https://youtu.be/DtHNSL8JV_U]
+**CHECK OUT THE YOUTUBE VIDEO**: [link](https://youtu.be/DtHNSL8JV_U)
 ## 🌟 How It Works
 
 The system creates a complete voice call handling pipeline:
@@ -342,9 +342,9 @@ This software is provided as-is for educational and personal use. Please ensure 
 **Why I Built This**: I was frustrated seeing small businesses getting charged $200-500/month for basic AI call assistants. This technology should be accessible to everyone, not just those who can afford expensive subscriptions.
 
 **Need Help?**
-- 💬 GitHub Issues: [https://github.com/XOZ3E]
-- 💬 Telegram: [https://t.me/XCZGITHUB]
-- 💬 Discord: [https://discord.gg/tYj5vw2BNM]
+- 💬 GitHub Issues: [XOZ3E](https://github.com/XOZ3E)
+- 💬 Telegram: [XCZGITHUB](https://t.me/XCZGITHUB)
+- 💬 Discord: [ENDXCZ](https://discord.gg/tYj5vw2BNM)
 
 ---
 
